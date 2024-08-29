@@ -468,7 +468,7 @@ body{
     background-color: rgb(245, 158, 82);
     border-radius: 50%;
     position: absolute;
-    top: 105%;
+    top: 100%;
     left: 50%;
     -webkit-transform: translate(-50%,-50%);
         -ms-transform: translate(-50%,-50%);
